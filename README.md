@@ -1,10 +1,9 @@
-# KoSh Scanner v4.5
-Fast CIDR + Domain Scanner for Termux
-Features: No DOWN, All Status 199-409, Default Payload, Storage Support
+## Quick Start
+1. Install: Upar wali 1 command
+2. Scanner: `python Scan\ kosh.py` 
+3. Admin: `python Malik.py` - Admin Number: 923077321978
 
-### Install
-bash setup_commands.txt wali 1 line command chalao
-
-### Usage
-python kosh.py
-Select 1 for CIDR, 2 for Domain File
+## Notes
+- 302 = Sirf RED me show hoga, save nahi hoga
+- Results save: /sdcard/Download/
+- Naya user add karne ke liye Malik.py use karein
